@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tomate
 - 👀 I’m interested in building touristic android apps, art and AI.
-- 🌱 I’m currently learning Computer science - Python - Kotlin - History 
+- 🌱 I’m currently learning Computer science - Python - Kotlin  
 - 💞️ I like jambon beurre
 - 📫 How to reach me 52hz@mailo.com
 - 🇫🇷
